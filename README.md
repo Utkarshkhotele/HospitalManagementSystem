@@ -13,6 +13,7 @@ This project allows you to manage patient records efficiently with options to **
 
 ---
 
+
 ## 🛠️ Technologies Used
 - **Java** (JDBC for database connectivity)
 - **MySQL** (for storing patient data)

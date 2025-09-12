@@ -12,6 +12,8 @@ This project allows you to manage patient records efficiently with options to **
 - Persistent storage using **MySQL database**.
 - Simple console menu for interaction.
 
+
+
 ---
 
 ## 🛠️ Technologies Used

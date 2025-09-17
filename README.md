@@ -4,7 +4,6 @@
 A simple console-based Hospital Management System built using **Java** and **MySQL**.  
 This project allows you to manage patient records efficiently with options to **add** and **view** patients.
 
-
 ---
 
 ## 🚀 Features

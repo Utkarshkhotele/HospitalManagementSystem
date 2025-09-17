@@ -7,7 +7,6 @@ This project allows you to manage patient records efficiently with options to **
 
 ---
 
-
 ## 🚀 Features
 - Add new patients with details (Name, Age, Gender).
 - View all stored patient records.
